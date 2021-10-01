@@ -1,0 +1,58 @@
+
+.top-wrapper {
+    background-image: url(bg.jpg);
+    padding: 100px 0 100px 0;
+    color: white;
+    background-size: cover;
+    text-align: center;
+   
+}
+
+.top-wrapper h1 {
+    font-size: 45px;
+    margin-bottom: 10px;
+    letter-spacing: 5px;
+    opacity: 0.9;
+    text-shadow: 2px 2px black;
+}
+
+.top-wrapper p {
+    opacity: 1;
+    margin-bottom: 3px;
+}
+
+.btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+    margin: 2px 5px;
+}
+
+.btn:hover {
+    opacity: 1;
+}
+
+.signup {
+    background-color: #239b76;
+}
+
+.indonesia {
+    background-color: #3b5998;
+}
+
+.malaysia {
+    background-color: #55acee;
+}
+
+.amerika {
+    background-color: #3ed3ee;
+}
+
+.italia {
+    background-color: #3eee5f;
+}
+
+.btn-wrapper {
+    margin: 20px 0;
