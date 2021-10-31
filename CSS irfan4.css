@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+html, body{
+     }
+.navigasi a:hover{
+	background-color:#009;
+	color:black;
+}
+	max-width:100%;
+	overflow-x: hidden;
+	margin:0;
+    }
+.Pembungkus{
+	position:relative;
+	text-align:center;
+	font-family:rockwell, "rockwell condensed","rockwell Extra Bold",playbill, onyx, "Nirmala UI;
+	font-size:80px;
+	text-shadow:#333 23px 23px;
+	color:black;
+  }
+.penengah{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform:translate(-50%,-50%);
+}
+.arahbar{
+	 overflow:hidden;
+	 background-color: gray;
+     }
+.arahbar a{
+	float:left;
+	display:block;
+	color:white;
+	padding: 15px 15px;
+	text-align:center;
+	text-decoration:none;
+	}	 
+	.arahbar a:hover{
+		backgraund-color:white;
+		color:black;
+	  }
